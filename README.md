@@ -1,1 +1,1 @@
-Exercises from the book _C언어로 쉽게 풀어쓴 자료구조_.
+Exercises and Supplementary resources from the book _C언어로 쉽게 풀어쓴 자료구조_.
